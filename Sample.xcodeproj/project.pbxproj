@@ -43,27 +43,27 @@
 		51AFC8051588F50F00A14984 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		51AFC8071588F50F00A14984 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		51AFC8091588F50F00A14984 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		51AFC80D1588F50F00A14984 /* Sample-Info.plist */ = {isa = PBXFileReference; path = "Sample-Info.plist"; sourceTree = "<group>"; };
+		51AFC80D1588F50F00A14984 /* Sample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Sample-Info.plist"; sourceTree = "<group>"; };
 		51AFC80F1588F50F00A14984 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		51AFC8111588F50F00A14984 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		51AFC8131588F50F00A14984 /* Sample-Prefix.pch */ = {isa = PBXFileReference; path = "Sample-Prefix.pch"; sourceTree = "<group>"; };
-		51AFC8141588F50F00A14984 /* GCDAppDelegate.h */ = {isa = PBXFileReference; path = GCDAppDelegate.h; sourceTree = "<group>"; };
+		51AFC8131588F50F00A14984 /* Sample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sample-Prefix.pch"; sourceTree = "<group>"; };
+		51AFC8141588F50F00A14984 /* GCDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GCDAppDelegate.h; sourceTree = "<group>"; };
 		51AFC8151588F50F00A14984 /* GCDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GCDAppDelegate.m; sourceTree = "<group>"; };
 		51AFC8181588F50F00A14984 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		51AFC81B1588F50F00A14984 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		51AFC81D1588F50F00A14984 /* GCDFirstViewController.h */ = {isa = PBXFileReference; path = GCDFirstViewController.h; sourceTree = "<group>"; };
+		51AFC81D1588F50F00A14984 /* GCDFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GCDFirstViewController.h; sourceTree = "<group>"; };
 		51AFC81E1588F50F00A14984 /* GCDFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GCDFirstViewController.m; sourceTree = "<group>"; };
 		51AFC8201588F51000A14984 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
 		51AFC8221588F51000A14984 /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		51AFC8241588F51000A14984 /* GCDSecondViewController.h */ = {isa = PBXFileReference; path = GCDSecondViewController.h; sourceTree = "<group>"; };
+		51AFC8241588F51000A14984 /* GCDSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GCDSecondViewController.h; sourceTree = "<group>"; };
 		51AFC8251588F51000A14984 /* GCDSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GCDSecondViewController.m; sourceTree = "<group>"; };
 		51AFC8271588F51000A14984 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		51AFC8291588F51000A14984 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
 		51AFC8301588F51000A14984 /* SampleTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		51AFC8311588F51000A14984 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		51AFC8391588F51000A14984 /* SampleTests-Info.plist */ = {isa = PBXFileReference; path = "SampleTests-Info.plist"; sourceTree = "<group>"; };
+		51AFC8391588F51000A14984 /* SampleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SampleTests-Info.plist"; sourceTree = "<group>"; };
 		51AFC83B1588F51000A14984 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		51AFC83D1588F51000A14984 /* SampleTests.h */ = {isa = PBXFileReference; path = SampleTests.h; sourceTree = "<group>"; };
+		51AFC83D1588F51000A14984 /* SampleTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SampleTests.h; sourceTree = "<group>"; };
 		51AFC83E1588F51100A14984 /* SampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SampleTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
